@@ -35,5 +35,8 @@ This project is inspired by the "100 Days of Code - The Complete Python Pro Boot
 ## **Credits**
 The quiz data used in this project was obtained from [Open Trivia Database]([url](https://opentdb.com/)).
 
+## **Contributions**
+Contributions to this project are welcome! If you find any issues or want to add new features, feel free to create a pull request.
+
 ## **Let's Get Started!**
 Are you ready to test your knowledge? Clone this repository, play some quizzes, and become a QuizMaster!
