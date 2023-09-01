@@ -1,6 +1,12 @@
 # QuizMaster - Test Your Knowledge with Fun Quizzes!
 Welcome to QuizMaster, your one-stop destination to challenge your knowledge on various topics through fun quizzes. This project is a Python-based quiz application that allows you to test your knowledge and learn something new every day.
 
+## **Output:**
+![image](https://github.com/sarvesh-2109/QuizMaster/assets/113255836/86bbb612-45e1-4234-99d7-f8c2af7901c7)
+![image](https://github.com/sarvesh-2109/QuizMaster/assets/113255836/af813c4f-bf6e-4679-bb20-9f43e180d3e2)
+
+
+
 ## **How It Works**
 - QuizMaster is built using Object-Oriented Programming principles and consists of the following components:
 
